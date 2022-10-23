@@ -1,4 +1,4 @@
-# AQUABOT-MD
+# 💖𝙌𝙐𝙀𝙀𝙉 𝙉𝙀𝙏𝙃𝙐💖
 This project is still being tested
 <p align="center"> <a href="github.com/sanuwaofficial"><img align="center" src="https://i.ibb.co/YbwcKVt/IMG-20220703-WA0091.jpg"/></a>
  <p align="center">
@@ -23,12 +23,12 @@ This project is still being tested
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/yP_YCd?referralCode=VN3jQs)
 ---------------------------------   
 
- ###  Developer :- Sanuwa-official 
+ ###  Developer :- SAVI
 
 ## Thanks To
 - [@adiwajshing](https://github.com/adiwajshing/) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
 - [@yusufusta](https://github.com/yusufusta/) for coded [WhatsAsena](https://github.com/yusufusta/WhatsAsena) 
-- [@sisula](https://github.com/sisula/) & [@joka](https://github.com/MrJoka-Thejaka/) for all the helps 🤝
+- Thanks for all the helps 🤝
  
   
  
